@@ -31,3 +31,11 @@
 - <kbd>right_commnad</kbd> + <kbd>i</kbd><kbd>k</kbd><kbd>j</kbd><kbd>l</kbd>对应 上 下 左 右
 - <kbd>right_commnad</kbd> + <kbd>z</kbd><kbd>x</kbd><kbd>c</kbd><kbd>v</kbd>对应 撤销 剪贴 复制 粘贴
 - <kbd>right_commnad</kbd> + <kbd>y</kbd>对应 重做 （撤销刚才的撤销操作）
+
+
+## 技巧
+
+- <kbd>right_command</kbd> + <kbd>a</kbd> 移动到行首
+- <kbd>right_command</kbd> + <kbd>e</kbd> 移动到行尾
+- <kbd>right_command</kbd> + <kbd>left_command</kbd> + <kbd>i</kbd> 移动到第一行
+- <kbd>right_command</kbd> + <kbd>left_command</kbd> + <kbd>k</kbd> 移动到最后一行
