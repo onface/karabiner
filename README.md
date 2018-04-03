@@ -20,7 +20,7 @@
 - <kbd>right_command</kbd> + <kbd>left_command</kbd> + <kbd>i</kbd> 移动到第一行
 - <kbd>right_command</kbd> + <kbd>left_command</kbd> + <kbd>k</kbd> 移动到最后一行
 - <kbd>right_command</kbd> + <kbd>h</kbd> 向前删除
-- <kbd>right_command</kbd> + <kbd>d</kbd> 向后删除
+- <kbd>right_command</kbd> + <kbd>d</kbd> 向后删除  (解决[Atom emmet 冲突](https://github.com/onface/relax-your-hands/issues/1))
 
 
 ## 替换键
