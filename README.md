@@ -3,7 +3,7 @@
 > 提高按键效率，避免双手大幅运动
 
 1. 安装 [karabiner](https://pqrs.org/osx/karabiner/)
-2. 下载 [karabiner.json](karabiner.json)
+2. 下载 [karabiner.json](https://raw.githubusercontent.com/onface/relax-your-hands/master/karabiner.json)
 3. 将下载文件替换 `~/.config/karabiner/karabiner.json` 文件
 
 ## 替换键
