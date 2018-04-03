@@ -27,7 +27,7 @@
               "type": "basic"
           }
       ]
-    }
+  },
     {
       "description": "L_Control + i/j/k/l to arrows",
       "manipulators": [
