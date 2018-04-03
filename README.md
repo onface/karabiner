@@ -20,7 +20,7 @@
 
 ### fn
 
-<kbd>fn<kbd> ~ </kbd>return_or_enter</kbd> 在右手控制鼠标需要按 <kbd>enter</kbd> 时非常不方便，替换成 <kbd>fn</kbd> 右手控制鼠标，左手按 <kbd>fn</kbd>
+<kbd>fn</kbd> ~ <kbd>return_or_enter</kbd> 在右手控制鼠标需要按 <kbd>enter</kbd> 时非常不方便，替换成 <kbd>fn</kbd> 右手控制鼠标，左手按 <kbd>fn</kbd>
 
 ### right_command
 
