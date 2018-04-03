@@ -1,15 +1,42 @@
 {
-  "title": "onface arrows jkli",
+  "title": "onface i/j/k/l as arrows and L_Control z/x/c/v as command z/x/c/v",
   "rules": [
     {
-      "description": "f20 + i/j/k/l to arrows",
+      "description": "L_Control + z/x/c/v to command z/x/c/v",
+      "manipulators": [
+          {
+              "form": {
+                  "key_code": "z",
+                  "modifiers": {
+                    "mandatory": [
+                      "left_control"
+                    ],
+                    "optional": [
+                      "any"
+                    ]
+                  }
+              },
+              "to": [
+                  {
+                        "key_code": "Z",
+                        "modifiers": [
+                            "left_command"
+                        ]
+                    }
+              ],
+              "type": "basic"
+          }
+      ]
+    }
+    {
+      "description": "L_Control + i/j/k/l to arrows",
       "manipulators": [
         {
           "from": {
             "key_code": "i",
             "modifiers": {
               "mandatory": [
-                "f20"
+                "left_control"
               ],
               "optional": [
                 "any"
@@ -28,7 +55,7 @@
             "key_code": "j",
             "modifiers": {
               "mandatory": [
-                "f20"
+                "left_control"
               ],
               "optional": [
                 "any"
@@ -47,7 +74,7 @@
             "key_code": "k",
             "modifiers": {
               "mandatory": [
-                "f20"
+                "left_control"
               ],
               "optional": [
                 "any"
@@ -66,7 +93,7 @@
             "key_code": "l",
             "modifiers": {
               "mandatory": [
-                "f20"
+                "left_control"
               ],
               "optional": [
                 "any"
@@ -83,14 +110,14 @@
       ]
     },
     {
-      "description": "f20 + u/o to pageup/pagedown",
+      "description": "L_Control + u/o to pageup/pagedown",
       "manipulators": [
         {
           "from": {
             "key_code": "u",
             "modifiers": {
               "mandatory": [
-                "f20"
+                "left_control"
               ],
               "optional": [
                 "any"
@@ -109,7 +136,7 @@
             "key_code": "o",
             "modifiers": {
               "mandatory": [
-                "f20"
+                "left_control"
               ],
               "optional": [
                 "any"
