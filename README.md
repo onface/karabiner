@@ -2,15 +2,19 @@
 
 > 提高按键效率，避免双手大幅运动
 
+> 减少右下角方向键和右上角<kbp>delete</kbp>使用频率
+
+**本教材只支持 MacOS，不过Windows 也可以用 karabiner 配置。**
+
 1. 安装 [karabiner](https://pqrs.org/osx/karabiner/)
-2. 下载 [karabiner.json](https://raw.githubusercontent.com/onface/relax-your-hands/master/karabiner.json)
+2. 下载 [https://raw.githubusercontent.com/onface/relax-your-hands/master/karabiner.json](https://raw.githubusercontent.com/onface/relax-your-hands/master/karabiner.json)
 3. 将下载文件替换 `~/.config/karabiner/karabiner.json` 文件
 
 ## 组合键
 
-- <kbd>right_commnad</kbd> + <kbd>i</kbd><kbd>k</kbd><kbd>j</kbd><kbd>l</kbd>对应 上 下 左 右
-- <kbd>right_commnad</kbd> + <kbd>z</kbd><kbd>x</kbd><kbd>c</kbd><kbd>v</kbd>对应 撤销 剪贴 复制 粘贴
-- <kbd>right_commnad</kbd> + <kbd>y</kbd>对应 重做 （撤销刚才的撤销操作）
+- <kbd>right_commnad</kbd> + <kbd>i</kbd><kbd>k</kbd><kbd>j</kbd><kbd>l</kbd> 上 下 左 右
+- <kbd>right_commnad</kbd> + <kbd>x</kbd><kbd>c</kbd><kbd>v</kbd> 撤销 剪贴 复制 粘贴
+- <kbd>right_commnad</kbd> + <kbd>z</kbd><kbd>y</kbd> 撤销(undo) 重做(redo)
 
 
 ## 技巧
@@ -43,4 +47,7 @@
 
 <kbd>fn</kbd> ~ <kbd>return_or_enter</kbd> 在右手控制鼠标需要按 <kbd>enter</kbd> 时非常不方便，替换成 <kbd>fn</kbd> 右手控制鼠标，左手按 <kbd>fn</kbd>
 
-非必须项均可以通过 `Karabiner-Elements` 软件中的 Simple Modifcations 删除
+非必须项均可以通过 `Karabiner-Elements` 软件中的 `Simple Modifcations` 删除
+
+
+[Github:onface/relax-your-hands](https://github.com/onface/relax-your-hands)
