@@ -25,7 +25,8 @@
 - <kbd>right_command</kbd> + <kbd>left_command</kbd> + <kbd>k</kbd> 移动到最后一行
 - <kbd>right_command</kbd> + <kbd>h</kbd> 向前删除
 - <kbd>right_command</kbd> + <kbd>d</kbd> 向后删除  (解决[Atom emmet 冲突](https://github.com/onface/relax-your-hands/issues/1))
-
+- <kbd>right_command</kbd> + <kbd>return_or_enter</kbd> 换行
+- <kbd>right_command</kbd> + <kbd>fn</kbd> 换行
 
 ## 替换键
 
