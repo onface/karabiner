@@ -421,6 +421,30 @@
                         ]
                     },
                     {
+                        "description": "L_Control + semicolon(;) to delete_or_backspace",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "semicolon",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "left_control"
+                                        ],
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "delete_or_backspace"
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
                         "description": "L_Control + u/o to pageup/pagedown",
                         "manipulators": [
                             {
@@ -581,14 +605,6 @@
             "name": "Default profile",
             "selected": true,
             "simple_modifications": [
-                {
-                    "from": {
-                        "key_code": "caps_lock"
-                    },
-                    "to": {
-                        "key_code": "delete_or_backspace"
-                    }
-                },
                 {
                     "from": {
                         "key_code": "fn"
