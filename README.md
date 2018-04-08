@@ -14,6 +14,7 @@
 
 - <kbd>right_commnad</kbd> + <kbd>i</kbd><kbd>k</kbd><kbd>j</kbd><kbd>l</kbd> 上 下 左 右
 - <kbd>right_commnad</kbd> + <kbd>u</kbd><kbd>o</kbd> 向上翻页，向下翻页
+- <kbd>right_commnad</kbd> + <kbd>;</kbd> 向前删除（使用 right_command ikjl 时候使用）
 - <kbd>right_commnad</kbd> + <kbd>x</kbd><kbd>c</kbd><kbd>v</kbd> 撤销 剪贴 复制 粘贴
 - <kbd>right_commnad</kbd> + <kbd>z</kbd><kbd>y</kbd> 撤销(undo) 重做(redo)
 
@@ -32,16 +33,6 @@
 ### right_command  （必须）
 
 <kbd>right_command</kbd> ~ <kbd>left_control</kbd> 配合组合键
-
-### caps_lock
-
-<kbd>caps_lock</kbd> ~ <kbd>delete_or_backspace</kbd> (切换大小写改为删除)
-
-编码时候右手距离删除键太远，<kbd>caps_lock</kbd>更方便，用 <kbd>right_shift</kbd> 替换 <kbd>caps_lock</kbd>
-
-### right_shift
-
-<kbd>right_shift</kbd> ~ <kbd>caps_lock</kbd>
 
 ### fn
 
