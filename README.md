@@ -13,6 +13,7 @@
 ## 组合键
 
 - <kbd>right_commnad</kbd> + <kbd>i</kbd><kbd>k</kbd><kbd>j</kbd><kbd>l</kbd> 上 下 左 右
+- <kbd>right_commnad</kbd> + <kbd>u</kbd><kbd>o</kbd> 向上翻页，向下翻页
 - <kbd>right_commnad</kbd> + <kbd>x</kbd><kbd>c</kbd><kbd>v</kbd> 撤销 剪贴 复制 粘贴
 - <kbd>right_commnad</kbd> + <kbd>z</kbd><kbd>y</kbd> 撤销(undo) 重做(redo)
 
@@ -25,6 +26,7 @@
 - <kbd>right_command</kbd> + <kbd>left_command</kbd> + <kbd>k</kbd> 移动到最后一行
 - <kbd>right_command</kbd> + <kbd>h</kbd> 向前删除
 - <kbd>right_command</kbd> + <kbd>d</kbd> 向后删除  (解决[Atom emmet 冲突](https://github.com/onface/relax-your-hands/issues/1))
+
 ## 替换键
 
 ### right_command  （必须）
