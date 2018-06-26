@@ -17,6 +17,9 @@
 - <kbd>right_commnad</kbd> + <kbd>;</kbd> 向前删除（使用 right_command ikjl 时候使用）
 - <kbd>right_commnad</kbd> + <kbd>x</kbd><kbd>c</kbd><kbd>v</kbd> 撤销 剪贴 复制 粘贴
 - <kbd>right_commnad</kbd> + <kbd>z</kbd><kbd>y</kbd> 撤销(undo) 重做(redo)
+- <kbd>left_commnad</kbd> + <kbd>e</kbd> 回车
+- <kbd>left_option</kbd> + <kbd>w</kbd> 切换大小写
+
 
 
 ## 技巧
@@ -34,9 +37,10 @@
 
 <kbd>right_command</kbd> ~ <kbd>left_control</kbd> 配合组合键
 
-### fn
+### caps_lock
 
-<kbd>fn</kbd> ~ <kbd>return_or_enter</kbd> 在右手控制鼠标需要按 <kbd>enter</kbd> 时非常不方便，替换成 <kbd>fn</kbd> 右手控制鼠标，左手按 <kbd>fn</kbd>
+<kbd>caps_lock</kbd> 改为 向前删除
+
 
 非必须项均可以通过 `Karabiner-Elements` 软件中的 `Simple Modifcations` 删除
 
