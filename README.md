@@ -18,7 +18,7 @@
 - <kbd>right_commnad</kbd> + <kbd>x</kbd><kbd>c</kbd><kbd>v</kbd> 撤销 剪贴 复制 粘贴
 - <kbd>right_commnad</kbd> + <kbd>z</kbd><kbd>y</kbd> 撤销(undo) 重做(redo)
 - <kbd>left_commnad</kbd> + <kbd>e</kbd> 回车
-- <kbd>left_option</kbd> + <kbd>w</kbd> 切换大小写
+- <kbd>left_option</kbd> + <kbd>q</kbd> 切换大小写
 
 
 
@@ -31,7 +31,7 @@
 
 ## 替换键
 
-### right_command  （必须）
+### right_command （必须）
 
 <kbd>right_command</kbd> ~ <kbd>left_control</kbd> 配合组合键
 
@@ -39,8 +39,16 @@
 
 <kbd>caps_lock</kbd> 改为 向前删除
 
+### grave_accent_and_tilde & right_shift
 
-非必须项均可以通过 `Karabiner-Elements` 软件中的 `Simple Modifcations` 删除
+<kbd>`</kbd> 改为 <kbd>Esc</kbd>
+
+<kbd>right_shift</kbd> 改为 <kbd>`</kbd>
+
+主要是因为 Macbook pro 的 touchbar 手感太傻逼了。
+
+
+除了 `right_command` 均可以通过 `Karabiner-Elements` 软件中的 `Simple Modifcations` 删除
 
 
 [Github:onface/relax-your-hands](https://github.com/onface/relax-your-hands)
