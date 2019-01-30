@@ -17,8 +17,8 @@
 - <kbd>right_commnad</kbd> + <kbd>;</kbd> 向前删除（使用 right_command ikjl 时候使用）
 - <kbd>right_commnad</kbd> + <kbd>x</kbd><kbd>c</kbd><kbd>v</kbd> 撤销 剪贴 复制 粘贴
 - <kbd>right_commnad</kbd> + <kbd>z</kbd><kbd>y</kbd> 撤销(undo) 重做(redo)
+- <kbd>right_commnad</kbd> + <kbd>s</kbd> 切换大小写
 - <kbd>left_commnad</kbd> + <kbd>e</kbd> 回车
-- <kbd>left_option</kbd> + <kbd>q</kbd> 切换大小写
 
 
 
@@ -31,7 +31,9 @@
 
 ## 替换键
 
-### right_command （必须）
+### right_command
+
+>  （必须替换键）
 
 <kbd>right_command</kbd> ~ <kbd>left_control</kbd> 配合组合键
 
@@ -39,11 +41,11 @@
 
 <kbd>caps_lock</kbd> 改为 向前删除
 
-### grave_accent_and_tilde & right_shift
+### grave_accent_and_tilde & right_option
 
 <kbd>`</kbd> 改为 <kbd>Esc</kbd>
 
-<kbd>right_shift</kbd> 改为 <kbd>`</kbd>
+<kbd>right_option</kbd> 改为 <kbd>`</kbd>
 
 主要是因为 Macbook pro 的 touchbar 手感太傻逼了。
 
